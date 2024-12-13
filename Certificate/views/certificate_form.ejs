@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/certificate" method="post" class="form_head">
+        <label for="Student_Name" class="form_label">Student Name*</label>
+        <input type="text" id="form_input" name="Student_Name" autocomplete="off" required>
+        <label for="Competition_Name" class="form_label">Competition Name*</label>
+        <input type="text" id="form_input" name="Competition_Name" autocomplete="off" required>
+        <label for="Rank">Rank*</label>
+        <select id="cars" required name="Rank">
+        <option value="1st">1<sup>st</sup></option>
+        <option value="2nd">2<sup>nd</sup></option>
+        <option value="3rd">3<sup>rd</sup></option>
+        <option value="">Participation</option>
+        </select>
+        <label for="Date" class="form_label">Date*</label>
+        <input type="text" id="form_input" name="Date" autocomplete="off" required>
+        <input type="submit" value="Submit" id="submit">
+    </form>
+</body>
+</html>

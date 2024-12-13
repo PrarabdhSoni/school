@@ -1,0 +1,131 @@
+
+.Golden_border{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.logo{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    height: 200px;
+    margin-left: 5%;
+    margin-top: 100px;
+}
+h1{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    margin-left: 25%;
+    padding-left: 90px;
+    margin-top: 130px;
+    font-size: 60px;
+    font:"Libre Baskerville";
+    color: #343434;
+}
+h2{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    margin-left: 25%;
+    padding-left: 160px;
+    margin-top: 200px;
+    font-size: 30px;
+    color: #A88324;
+}
+h3{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    margin-left: 25%;
+    padding-left: 100px;
+    margin-top: 250px;
+    font-size: 20px;
+    color: #334166;
+}
+h4{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 50%;
+    margin-top: 360px;
+    margin-left: 40%;
+    padding-left: 50px;
+    font-size: 30px;
+    color: #334166;
+}
+.Golden_row{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 50%;
+    margin-top: 200px;
+    margin-left: 25%;
+    padding-left: 25px;
+}
+p{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 50%;
+    text-align: center;
+    margin-top: 420px;
+    margin-left: 25%;
+    padding-left: 30px;
+    font-size: 20px;
+    color: #334166; 
+}
+.Golden_ring{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    margin-top: 500px;
+    margin-left: 40%;
+    padding-left: 25px;
+    height: 150px; 
+}
+.Head_of_event{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    margin-top: 600px;
+    margin-left: 20%;
+    padding-left: 25px;
+    height: 150px;
+}
+.Stamp{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    margin-top: 600px;
+    margin-left: 70%;
+    padding-left: 25px;
+    height: 150px;
+}
+h6{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    margin-top: 550px;
+    margin-left: 49%;
+    padding-left: 10px;
+    font-size: 40px;
+    height: 150px;
+    color: #A88324;
+}
