@@ -1,0 +1,444 @@
+body{
+    background-color: #6F5ACD;
+}
+#top{
+    display:inline-block;
+    background-color: #6F5ACD;
+    width: 100%;
+    color: #E8E2FF;
+    padding-bottom: 20px;
+}
+#contact{
+    color: #E8E2FF;
+    text-decoration: none;
+}
+#header{
+    background-color: #6F5ACD;
+}
+.dropdown-menu{
+    background-color: #6F5ACD;
+}
+.dropdown-menu>li>a{
+    color: #E8E2FF;
+}
+#heading{
+    color: #E8E2FF;
+    font-family: codec pro;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#navi-items{
+    color:#E8E2FF;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 85px;
+    display: inline-block;
+}
+#login-button{
+    margin-left: 80px;
+    margin-right: 10px;
+    background-color: #E8E2FF;
+    color: #6F5ACD;
+    font-weight: bold;
+    border-radius: 90px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#key-temp1{
+    color: #6F5ACD;
+}
+#key-temp1 h2{
+    font-size: 50px;
+    font-weight: bolder;
+    @media(max-width: 600px){
+        font-size: 25px;
+    }
+}
+#key-features1{
+    background-color: #E8E2FF;
+    padding: 20px;
+    margin: 0%;
+    @media(min-width:600px){
+        height: 91vh;  
+    }
+
+}
+#key-temp-sub1{
+    color: #6F5ACD;
+    font-family: codec pro;
+    font-size: 25px;
+    @media(max-width: 600px){
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    @media(min-width: 600px){
+        padding-top: 50px;
+    }
+}
+#key-temp-img1{
+    height: 500px;
+    width: 500px;
+    @media(max-width: 600px){
+        width: 250px;
+        padding: 20px;
+        height: 200px;
+    }
+}
+#key-features2{
+    background-color: #6F5ACD;
+    padding: 20px;
+    margin: 0%;
+    @media(min-width:600px){
+        height: 91vh;  
+    }
+
+}
+#key-temp2{
+    color: #E8E2FF;
+}
+#key-temp2 h2{
+    font-size: 50px;
+    font-weight: bolder;
+    @media(max-width: 600px){
+        font-size: 25px;
+    }
+}
+#key-temp-sub2{
+    color: #E8E2FF;
+    font-family: codec pro;
+    font-size: 25px;
+    @media(max-width: 600px){
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    @media(min-width: 600px){
+        padding-top: 50px;
+    }
+}
+#key-temp-img2{
+    height: 500px;
+    width: 500px;
+    @media(max-width: 600px){
+        width: 250px;
+        padding: 20px;
+        height: 200px;
+    }
+}
+#learn-more{
+    background-color: #E8E2FF;
+    padding: 20px;
+    margin: 0%;
+    @media(min-width:600px){
+        height: 91vh;  
+    }
+
+}
+#learn-more-img{
+    width: 500px;
+    height: 500px;
+    @media(max-width: 600px){
+        width: 250px;
+        padding: 20px;
+        height: 250px;
+    }
+}
+#learn-more-temp p{
+    font-weight: bold;
+    font-size: 50px; 
+    color: #6F5ACD;
+    font-family: codec pro;
+    @media(max-width: 600px){
+        font-size: 25px;
+        padding-top: 10px;
+    }
+    @media(min-width: 600px){
+        padding-top: 50px;
+    }
+}
+#learn-more-temp button{
+    background-color:#E8E2FF;
+    border-radius: 90px;
+    color: #6F5ACD;
+}
+.row{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+#gallery-img img{
+    height: 300px;
+    width: 300px;
+    border-radius: 60%;
+    background-color: #6F5ACD;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 0%;
+}
+#gallery h2{
+    color: #E8E2FF;
+    font-size: 50px;
+}
+#gallery{
+    background-color: #6F5ACD;
+    color: #E8E2FF;
+    font-size: 50px;
+    font-family: codec pro;
+    margin: 0%;
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+    font-family: codec pro;
+}
+#gallery-more{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 90px;
+    background-color: #E8E2FF;
+    color: #6F5ACD;
+    font-weight: bold;
+    font-size: 25px;
+}
+#map{
+    height: 250px;
+    width: 250px;
+    @media(max-width: 600px){
+        height: 300px;
+        width: 300px;
+        padding-left: auto;
+        padding-right: auto;
+    }
+}
+#footer .row .col h6{
+    text-align: center;
+}
+#footer .row .col{
+    text-align: center;
+}
+#footer{
+    background-color: #6F5ACD;
+    margin: 0%;
+    padding: 10px;
+    color: #E8E2FF;
+    @media(max-width: 600px){
+        font-size: 20px;
+    }
+}
+#copyright{
+    background-color: #6F5ACD;
+    color: #E8E2FF;
+}
+#copyright hr{
+    margin: 0%;
+    color: #E8E2FF;
+}
+#social-media{
+    width: 40px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+
+/* Gallery.html*/
+#G1{
+    background-color: #E8E2FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#G2{
+    background-color: #6F5ACD;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#Gp{
+    border-radius: 50%;
+    margin-top: 20px;
+    height: 200px;
+    @media(max-width: 600px){
+    height: 80px;}
+}
+#Gp2{
+    height: 300px;
+    margin-top: 20px;
+    @media(max-width: 600px){
+        height: 80px;}
+}
+
+/* enquire*/
+#form{
+    background-color: #E8E2FF;
+}
+/* Aboutus*/
+#Aboutus{
+    background-color: #E8E2FF;
+    margin: 0%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+#Aboutus div h2{
+    text-align: center;
+    text-decoration: underline orange;
+    color: #6F5ACD;
+    margin: 0%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+#Aboutus div p{
+    text-align: center;
+    color: #6F5ACD;
+}
+#Aboutus div img{
+    display: block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#vision{
+    background-color: #6F5ACD;
+}
+#Vsub{
+    margin: auto;
+    padding: auto;
+    color: #E8E2FF;
+    @media(max-width: 600px){
+        font-size: 12px;
+    }
+}
+#Vsub h3{
+    text-decoration: underline orange;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: #E8E2FF;
+
+}
+#mission{
+    background-color: #E8E2FF;
+
+}
+#mission h3{
+    text-decoration: underline orange;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: #6F5ACD;
+}
+#Msub{
+    margin: auto;
+    padding: auto;
+    color: #6F5ACD;
+    @media(max-width: 600px){
+        font-size: 12px;
+    }
+}
+#Vimg{
+    padding-top: 20px;
+    @media(max-width:600px){
+        height: 250px;
+        width: 150px;
+    }
+}
+#Mimg{
+    padding-top: 20px;
+    @media(max-width:600px){
+        height: 250px;
+        width: 150px;
+    }
+}
+#principal{
+    background-color: #6F5ACD;
+    margin: auto;
+    padding: 100px;
+    display: flex;
+}
+#ARimg{
+    padding-left: 50px;
+    width: 300px;
+    height: 250px;
+}
+#principal h3{
+    padding-top: 20px;
+    color: #E8E2FF;
+    text-decoration: underline orange;
+}
+#principal h5{
+    color: #E8E2FF;
+}
+#principal p{
+    color: #E8E2FF;
+    @media(max-width: 600px){
+        font-size: 10px;
+        padding-bottom: 0%;
+    }
+}
+#Pc{
+    display: flex;
+}
+#life_at_school{
+    background-color: #E8E2FF;
+    color: #6F5ACD;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+#life_at_school h3{
+    text-align: center;
+    text-decoration: underline orange;
+    @media(max-width: 600px){
+        padding-top: 10px;
+    }
+    @media(min-width: 600px){
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+#life_at_school p{
+    text-align: center;
+    @media(max-width: 600px){
+        padding: 5px;
+    }
+    @media(min-width: 600px){
+        padding: 10px;
+    }
+}
+
+/* Addmission */
+#Addmission1{
+    background-color: #E8E2FF;
+    margin: 0%;
+    padding: 0%;
+    color: #6F5ACD;
+}
+#Addmission1-h3{
+    text-align: center;
+    text-decoration: underline orange;
+    font-weight: bolder;
+    @media(max-width: 600px){
+        padding-top: 30px;
+    }
+    @media(min-width: 600px){
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+#Addmission1-sub{
+    padding-left: 20px;
+    padding: auto;
+    @media(max-width: 600px){
+        font-size: 12px;
+    }
+    text-align: center;
+}
+#Addmission1 h6{
+    padding-left: 20px;
+}
+#Addmission1 p{
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+#Addmission-ul li{
+    padding-top: 10px;
+    margin: 0%;
+    padding-bottom: 10px;
+}
+#Addmission-ul li pre{
+    font-weight: 900;
+}
